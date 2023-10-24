@@ -6,7 +6,7 @@
 - 📫 How to reach me: toma2023jobs@gmail.com
 - ⚡ Fun fact: I do like ketchup
 
-- [![likeketchup](https://github-readme-stats.vercel.app/api?username=likeketchup](https://github.com/anuraghazra/github-readme-stats)
+[![Toma's GitHub stats](https://github-readme-stats.vercel.app/api?username=likeketchup)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **likeketchup/likeketchup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
