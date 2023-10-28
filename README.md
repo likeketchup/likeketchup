@@ -1,10 +1,10 @@
-### Hi there 👋 Welcome to my GitHub
+### Hi there, Welcome to Toma's GitHub👋 
 - 🔭 I’m currently working on my personal website
 - 🌱 I’m currently learning CI/CD pipelines and Lindy Hop
 - 👯 I’m looking to collaborate on cool projects
 - 💬 Ask me about anything! 
 - 📫 How to reach me: toma2023jobs@gmail.com
-- ⚡ Fun fact: I do like ketchup
+- ⚡ Fun fact: I like ketchup
 
 <h3>Things I code with</h3>
 <h4>Databases</h4>
