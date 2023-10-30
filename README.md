@@ -1,4 +1,4 @@
-### Hi there, Welcome to Toma's GitHub👋 
+### Hi there, Welcome to Toma's GitHub👋  
 - 🔭 I’m currently working on my personal website
 - 🌱 I’m currently learning CI/CD pipelines and Lindy Hop
 - 👯 I’m looking to collaborate on cool projects
